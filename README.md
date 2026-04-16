@@ -17,10 +17,10 @@ The system consists of the following core components:
 ## 💻 Tech Stack
 
 * **Language**: Java
-* **Framework**: Spring Boot / Spring Cloud (Assumed for Java microservices)
+* **Framework**: Spring Boot / Spring Cloud
 * **Architecture**: Microservices
-* **Service Discovery**: Netflix Eureka (Assumed based on `ServiceRegistry`)
-* **API Gateway**: Spring Cloud Gateway (Assumed based on `api-gateway`)
+* **Service Discovery**: Netflix Eureka (`ServiceRegistry`)
+* **API Gateway**: Spring Cloud Gateway (`api-gateway`)
 
 ## ✨ Key Features
 
